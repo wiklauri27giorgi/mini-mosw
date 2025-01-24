@@ -1,0 +1,5 @@
+name=input("what is your name: ")
+surname=input("what is your surname: ")
+age=input("what is your age: ")
+food=input("your favorite food: ")
+print("your name,surname,age and your favorite food is ",name,surname,age,food,)
